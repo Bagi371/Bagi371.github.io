@@ -163,7 +163,7 @@ footer {
 
 footer .footer__content {
   text-align: center;
-  padding: 6rem 2rem 1rem;
+  padding: 2.5rem 2rem 1rem;
   max-width: 48rem;
 }
 
@@ -178,11 +178,11 @@ footer .footer__content ul li {
 
 footer .footer__content ul a {
   display: inline-block;
-  padding: 1.5rem;
+  padding: .5rem;
 }
 
 footer .footer__content .footer__copyright {
-  font-size: .5rem;
+  font-size: 1rem;
 }
 
 @media (width < 750px) {
